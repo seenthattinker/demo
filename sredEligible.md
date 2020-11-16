@@ -53,7 +53,7 @@ Campbell would have us believe that it's in our DNA.
 Anyway,
 it turns out the heroic journey and a SR&ED application have a lot in common.
 
-![heroic](/assets/img/heroCommentary.png)
+![heroic](/assets/img/heroCommentary.svg.png)
 
 
 
