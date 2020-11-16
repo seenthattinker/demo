@@ -16,7 +16,7 @@ SR&ED Technical Audit Pointers
 
 To help you be better prepared for an SR&ED audit by CRA,
 explain the process,
-minimize surprises
+minimize surprises,
 and to maximize your ability to defend your claims,
 we strongly recommend you understand the process.
 
@@ -51,7 +51,7 @@ Audit Process
 The audit process has been codified by CRA in a lengthy manual used by all RTAs as of June 2010.
 This 166-page document is called [Claim Review Manual for Research and Technology Advisors](www.cra-arc.gc.ca/txcrdt/sred-rsde/pblctns/ntr-tchrvw-eng.html).
 
-![Note] An edited version is available for taxpayers. [The SR&ED Technical Review: A Guide for Claimants](www.cra-arc.gc.ca/txcrdt/sred-rsde/pblctns/tchrvw-cmmnt-eng.html).
+An edited version is available for taxpayers. [The SR&ED Technical Review: A Guide for Claimants](www.cra-arc.gc.ca/txcrdt/sred-rsde/pblctns/tchrvw-cmmnt-eng.html).
 
 RTAs are now required to follow this somewhat rigid process,
 leaving little flexibility.
@@ -132,7 +132,7 @@ Occasionally,
 they will be satisfied with the tour alone,
 but don’t depend on this.
 
-![Note] Be prepared to defend every project.
+Be prepared to defend every project.
 
 
 Listen carefully to what the auditor is asking.
@@ -144,7 +144,7 @@ Use them as guides regarding advances,
 uncertainties,
 and methodology.
 
-![Note] These are your words. We’ve just summarized them.
+These are your words. We’ve just summarized them.
 
 
 Be prepared to state the following in your own words for each project:
@@ -300,7 +300,7 @@ or commercial use of your new and improved products or ideas.
 ### Additional Audit Pointers
 
 
-![Note] Emphasize and Avoid
+Emphasize and Avoid
 
 
 Systematic approach
