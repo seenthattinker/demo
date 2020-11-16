@@ -53,7 +53,7 @@ Campbell would have us believe that it's in our DNA.
 Anyway,
 it turns out the heroic journey and a SR&ED application have a lot in common.
 
-![heroic](/assets/images/heroCommentary.png)
+![heroic](/assets/img/heroCommentary.png)
 
 
 
@@ -100,7 +100,7 @@ but does not include work with respect to
 
 
 
-![SRE&ED Overview](/assets/images/sred.svg)
+![SRE&ED Overview](/assets/img/sred.svg)
 
 What is generally understood to be *research and development*, or *R&D*,
 is not necessarily *SR&ED*. SR&ED is carried out in a certain way and
@@ -137,7 +137,7 @@ protocols, standards, and other practices. Also, in many situations,
 problems are solved by following established procedures and standards.
 In other words, a systematic approach is used to carry out work.
 
-![how](/assets/images/how.svg)
+![how](/assets/img/how.svg)
 
 It is important to distinguish between a systematic approach to carrying
 out work and the approach that is a [systematic investigation or
@@ -203,7 +203,7 @@ implies an attempt to resolve what is called [scientific uncertainty](https://ww
 the advancement is the targeted outcome of the SR&ED work while the uncertainty is the impetus for the SR&ED work. Therefore, an attempt to achieve
 advancement is an attempt to resolve uncertainty.
 
-![why](/assets/images/why.svg)
+![why](/assets/img/why.svg)
 
 
 Work types
@@ -268,7 +268,7 @@ the transistor did not advance scientific knowledge. It did, however,
 advance technology (the practical application of scientific knowledge
 and principles).
 
-![work](/assets/images/work.svg)
+![work](/assets/img/work.svg)
 
 
 
@@ -307,7 +307,7 @@ namely, work undertaken for the purpose of achieving [technological advancement
 for the purpose of creating new, or improving existing, materials, devices, products or processes, including incremental improvements
 thereto,
 
-![systemicInvestigation](/assets/images/systemicInvestigation.svg)
+![systemicInvestigation](/assets/img/systemicInvestigation.svg)
 
 The method to establish this involves answering the following five questions:
 
@@ -329,7 +329,7 @@ The method to establish this involves answering the following five questions:
     work progressed?
 
 
-![systemicInvestigation](/assets/images/fiveQuestions.svg)
+![systemicInvestigation](/assets/img/fiveQuestions.svg)
 
 
 
