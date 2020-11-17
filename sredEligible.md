@@ -811,16 +811,6 @@ technological uncertainty in determining the optimum conditions to
 maximize production of a new plant variety. This is development based on
 the existing scientific or technological knowledge base.
 
-
-
-
-
-
-
-
-
-
-
 In terms of SR&ED work, some elements of work may involve the
 application of techniques, data, and procedures that are generally known
 and available (for example, running an analytical test, which follows
@@ -1433,7 +1423,6 @@ project comprising a set of interrelated activities that:
     defined for the project by overcoming [scientific or technological
     uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty);
     and
-
 - &ndash; are pursued through a [systematic investigation or
     search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
     in a field
