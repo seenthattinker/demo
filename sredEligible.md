@@ -23,11 +23,11 @@ experimental development (SR&ED). It is directed at personnel who
 identify SR&ED work. Identifying SR&ED requires technical personnel who
 performed, are familiar with, or are responsible for the work.
 
-* [What is SR&ED?](#what-is-sr-ed-)
-* [Work types](#work-types)
-* [Methodology to determine if work meets the definition of SR&ED](#methodology-to-determine-if-work-meets-the-definition-of-sr-ed)
-* [SR&ED project](#sr-ed-project)  
-* [SR&ED in a production or manufacturing environment](#sr-ed-in-a-production-or-manufacturing-environment)
+* &endash;[What is SR&ED?](#what-is-sr-ed-)
+* &endash;[Work types](#work-types)
+* &endash;[Methodology to determine if work meets the definition of SR&ED](#methodology-to-determine-if-work-meets-the-definition-of-sr-ed)
+* &endash;[SR&ED project](#sr-ed-project)  
+* &endash;[SR&ED in a production or manufacturing environment](#sr-ed-in-a-production-or-manufacturing-environment)
 
 
 
@@ -47,7 +47,7 @@ The best way to think about it is as a story.
 It's one of the oldest stories ever told.
 It's the basis of a good percentage of our mythology and the cultural habit of storytelling.
 It's everywhere,
-from Homer in *The Odyssey* to Bruce Willis in *Die Hard*.
+from Homer in *The Odyssey* &endash;to Bruce Willis in *Die Hard*.
 &mdash;
 the hero's journey.
 The twentieth century mythologist,
@@ -68,7 +68,7 @@ it turns out the heroic journey and a SR&ED application have a lot in common.
 
 
 Scientific research and experimental development (SR&ED) is defined for
-income tax purposes in subsection 248(1) of the *Income Tax Act* as
+income tax purposes in subsection 248(1) of the *Income Tax Act* &endash;as
 follows:
 
 Scientific research and experimental development means systematic
@@ -115,9 +115,9 @@ for specific reasons. The definition of SR&ED describes how and why SR&ED work 
 
 
 
-*Eligible* and *ineligible* (including the forms *eligibility* and *ineligibility*) are widely used in the SR&ED program, although
-the Act does not define these terms. For this document, *eligible* or *ineligible*, without any other qualifier, means work that meets or does not meet
-the definition of SR&ED in subsection 248(1) of the Act. In addition, *uncertainty* and *advancement* without any other qualifiers refer to scientific or
+*Eligible* &endash;and *ineligible* &endash;(including the forms *eligibility* &endash;and *ineligibility*) are widely used in the SR&ED program, although
+the Act does not define these terms. For this document, *eligible* &endash;or *ineligible*, without any other qualifier, means work that meets or does not meet
+the definition of SR&ED in subsection 248(1) of the Act. In addition, *uncertainty* &endash;and *advancement* &endash;without any other qualifiers refer to scientific or
 technological uncertainty and scientific or technological advancement respectively.
 
 
@@ -126,7 +126,7 @@ technological uncertainty and scientific or technological advancement respective
 
 ### How SR&ED is carried out
 
-The definition of SR&ED describes **how** SR&ED is performed—a
+The definition of SR&ED describes **how** &endash;SR&ED is performed—a
 *[systematic investigation or
 search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
 that is carried out in a field
@@ -163,10 +163,10 @@ search](https://www.canada.ca/en/revenue-agency/services/scientific-research-exp
 is common to all work, including scientific,
 [engineering](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ngnrng)
 or other development, that involves SR&ED. And, it is recognized that in
-an industrial context, a *possible solution to the problem* may be
+an industrial context, a *possible solution to the problem* &endash;may be
 considered a
 [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss),
-and *building and testing of a prototype* may be considered part of the
+and *building and testing of a prototype* &endash;may be considered part of the
 [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
 or
 [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss).
@@ -183,7 +183,7 @@ be given to why the work was carried out.
 
 The definition
 of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd)
-also describes **why** SR&ED is undertaken—for the [advancement of
+also describes **why** &endash;SR&ED is undertaken—for the [advancement of
 scientific
 knowledge](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt),
 or for the purpose of achieving [technological
@@ -797,7 +797,7 @@ light, temperature, carbon dioxide, and humidity. You also develop and
 implement management protocols to optimize the control of nutrient
 levels, de-leafing, thinning, and other operational practices. These
 adjustments and management protocols are often called the *development
-of cultural management strategies* or *crop husbandry strategies.*
+of cultural management strategies* &endash;or *crop husbandry strategies.*
 
 Based on the results from your controllable zone, you start commercial
 production.
@@ -861,7 +861,7 @@ a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-rese
 designed to resolve the [scientific or technological
 uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty)
 is an essential step and requires observing and understanding the
-subject matter of the problem. Here, *hypothesis* means an idea,
+subject matter of the problem. Here, *hypothesis* &endash;means an idea,
 consistent with known facts, that serves as a starting point for further
 investigation to prove or disprove that idea. The meaning of the term
 hypothesis is applied in the most general sense and is sufficiently
@@ -1424,7 +1424,7 @@ SR&ED project
 [Form T661, Scientific Research and Experimental Development (SR&ED)
 Expenditures Claim](https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t661.html),
 requires SR&ED work to be claimed as SR&ED projects. As a result,
-claimants should be aware of the meaning of *project* in the context of
+claimants should be aware of the meaning of *project* &endash;in the context of
 SR&ED.
 
 
@@ -1489,7 +1489,7 @@ expenditures to the project.
 ### Company project versus SR&ED project
 
 A distinction must be drawn between a company project and an SR&ED
-project. *Company project* is a generic term referring to undertakings
+project. *Company project* &endash;is a generic term referring to undertakings
 by a company to have an impact on its business; for example, building
 new facilities or expanding facilities, developing new products and
 product lines, changing business practices, upgrading processes and
@@ -1601,7 +1601,7 @@ SR&ED in a production or manufacturing environment
 ------------------------------------------------------
 
 SR&ED in a production or manufacturing environment is referred to as
-*shop floor SR&ED.* It occurs in a variety of industry sectors and is
+*shop floor SR&ED.* &endash;It occurs in a variety of industry sectors and is
 mostly [experimental
 development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt)
 in nature. However, [basic
