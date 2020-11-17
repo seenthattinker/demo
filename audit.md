@@ -4,7 +4,7 @@ title: Audit
 subtitle: What to expect in an audit
 ---
 
-![logo](/assets/img/conceptinero.jpg)
+![logo](/assets/img/conceptinero.jpg width=200pt)
 
 
 SR&ED Technical Audit Pointers
@@ -305,6 +305,7 @@ Routing Software Development
 
 
 Things at the technological Level:
+
 * throughput
 * speed
 * response time
@@ -318,6 +319,7 @@ Things at the technological Level:
 * and engineering are actually support activities.
 
 Things at the functional Level:
+
 * what the code does
 * Programmatic risk
 * business risk
