@@ -14,7 +14,7 @@ SR&ED Glossary
 The scientific research and experimental development (SR&ED) glossary is provided for information purposes only as a plain language explanation of some of the terms used on the SR&ED Web pages, policies, forms and guides, when administering the SR&ED legislation under the federal *Income Tax Act* and the *Income Tax Regulations*. The SR&ED Glossary does not replace the law, either enacted or proposed.
 
 
-![Attention] This is a scaled down glossary. We focused on the terms relevant to submitting a SR&ED submission for software, telecommunications, and technology. We have expanded on the government definitions with case law from the Tax Court of Canada, and we have provided visual representation of some of the definitions.
+{: .box-warning}**Warning:** This is a scaled down glossary. We focused on the terms relevant to submitting a SR&ED submission for software, telecommunications, and technology. We have expanded on the government definitions with case law from the Tax Court of Canada, and we have provided visual representation of some of the definitions.
 
 
 A
@@ -161,7 +161,7 @@ By definition, and according to sound professional practice, engineering practic
 
 It is important to distinguish between work with respect to engineering and the work that engineers perform. Even though engineering practice is not eligible on its own, engineers can still be carrying out [basic research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch), [applied research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ppldrsrch), and [experimental development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt).
 
-![Note] The following are the explanation of changes to this term as of April 24, 2015.
+{: .box-note}**Note:** The following are the explanation of changes to this term as of April 24, 2015.
 
 1.  “routine engineering” was removed as there is no differentiation
     between engineering and routine engineering.
@@ -199,7 +199,7 @@ Experimental production is defined as the [production output](https://www.canada
 A hypothesis is an idea, consistent with known facts, that serves as a
 starting point for further investigation to prove or disprove that idea.
 
-![Note] The following are the explanation of changes to this term as of April 24, 2015.
+{: .box-note}**Note:** The following are the explanation of changes to this term as of April 24, 2015.
 
 1.  The explanation has been simplified to improve understanding and
     readability.
@@ -340,7 +340,7 @@ same for all companies, the scientific or technological knowledge base
 may vary from company to company because the internal resources can vary
 from company to company.
 
-![Note] The following are the explanation of changes to this term as of April 24, 2015.
+{: .box-note}**Note:** The following are the explanation of changes to this term as of April 24, 2015.
 
 1.  The term “technology base or level” has been changed to “scientific
     or technological knowledge base.” The change is to clarify that the
