@@ -47,7 +47,7 @@ The best way to think about it is as a story.
 It's one of the oldest stories ever told.
 It's the basis of a good percentage of our mythology and the cultural habit of storytelling.
 It's everywhere,
-from Homer in *The Odyssey* &ndash; to Bruce Willis in *Die Hard*.
+from Homer in *The Odyssey* to Bruce Willis in *Die Hard*.
 &mdash;
 the hero's journey.
 The twentieth century mythologist,
@@ -77,16 +77,13 @@ technology by means of experiment or analysis and that is:
 
 - &ndash; basic research, namely, work undertaken for the advancement of
 scientific knowledge without a specific practical application in view,
-
 - &ndash; applied research, namely, work undertaken for the advancement of
 scientific knowledge with a specific practical application in view, or
-
 - &ndash; experimental development, namely, work undertaken for the purpose of
 achieving technological advancement for the purpose of creating new, or
 improving existing, materials, devices, products or processes, including
 incremental improvements thereto,
 and, in applying this definition in respect of a taxpayer, includes
-
 - &ndash; work undertaken by or on behalf of the taxpayer with respect to
 engineering, design, operations research, mathematical analysis,
 computer programming, data collection, testing or psychological
@@ -1212,31 +1209,25 @@ but does not include work with respect to
 research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#mrkt)
 or [sales
 promotion](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#sls),
-
 - &ndash;  [quality
 control](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#qcntrl)
 or [routine
 testing](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tstng)
 of materials, devices, products or processes,
-
 - &ndash; research in the [social
 sciences](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#sclsc)
 or the
 [humanities](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hmnts),
-
 - &ndash;  [prospecting, exploring or drilling for, or producing, minerals,
 petroleum or natural
 gas](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prspct),
-
 - &ndash;  the [commercial
 production](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmprd)
 of a new or improved material, device or product or the commercial use
 of a new or improved process,
-
 - &ndash;  [style
 changes](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#stylc),
 or
-
 - &ndash;  [routine data
 collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn).*
 
