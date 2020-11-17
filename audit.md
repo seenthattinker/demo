@@ -4,7 +4,6 @@ title: Audit
 subtitle: What to expect in an audit
 ---
 
-![logo](/assets/img/conceptinero.jpg)
 
 
 SR&ED Technical Audit Pointers
