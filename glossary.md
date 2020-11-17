@@ -26,7 +26,7 @@ A
 Analysis is the detailed examination of information to differentiate the various parts of a whole, determine their attributes, or explain their relationships. It is performed against the background of available knowledge and experience and it involves using tools such as models, graphs, statistics, tables, diagrams, mathematical formulas, and computer programs to express this knowledge or experience. Analysis is an integral part of the [systematic investigation or search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv) and it can be used to generate or test a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss).
 
 
-![Analysis](/assets/images/analysis.svg)
+![Analysis](/assets/img/analysis.svg)
 
 
 
@@ -43,7 +43,7 @@ Applied research is work undertaken for the [advancement of scientific knowledg
 with a specific practical application in view.
 
 
-![Analysis](/assets/images/analysis.svg))
+![Analysis](/assets/img/analysis.svg))
 
 
 B
@@ -383,7 +383,7 @@ System uncertainty is a form of [technological uncertainty](https://www.canada.c
 
 The systematic investigation or search called for in the definition of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#srd) is an approach that includes defining a problem, advancing a [hypothesis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss) towards resolving that problem, planning and testing the hypothesis by [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt) or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss), and developing logical conclusions based on the results. For more information, please refer to [section 2.1.3 of the Eligibility of Work for SR&ED Investment Tax Credits Policy](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/eligibility-work-investment-tax-credits.html#s2_1_3).
 
-![systemicInvestigation](/assets/images/systemicInvestigation.svg)
+![systemicInvestigation](/assets/img/systemicInvestigation.svg)
 
 ### Technology
 
