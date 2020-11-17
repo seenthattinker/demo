@@ -1,5 +1,5 @@
 ---
-layout: default 
+layout: default
 title: glossary
 description: The Terms You Need to Know
 ---
@@ -14,7 +14,8 @@ SR&ED Glossary
 The scientific research and experimental development (SR&ED) glossary is provided for information purposes only as a plain language explanation of some of the terms used on the SR&ED Web pages, policies, forms and guides, when administering the SR&ED legislation under the federal *Income Tax Act* and the *Income Tax Regulations*. The SR&ED Glossary does not replace the law, either enacted or proposed.
 
 
-{: .box-warning}**Warning:** This is a scaled down glossary. We focused on the terms relevant to submitting a SR&ED submission for software, telecommunications, and technology. We have expanded on the government definitions with case law from the Tax Court of Canada, and we have provided visual representation of some of the definitions.
+{: .box-warning}
+**Warning:** This is a scaled down glossary. We focused on the terms relevant to submitting a SR&ED submission for software, telecommunications, and technology. We have expanded on the government definitions with case law from the Tax Court of Canada, and we have provided visual representation of some of the definitions.
 
 
 A
