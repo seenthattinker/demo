@@ -75,19 +75,19 @@ Scientific research and experimental development means systematic
 investigation or search that is carried out in a field of science or
 technology by means of experiment or analysis and that is:
 
-- basic research, namely, work undertaken for the advancement of
+- &ndash; basic research, namely, work undertaken for the advancement of
 scientific knowledge without a specific practical application in view,
 
-- applied research, namely, work undertaken for the advancement of
+- &ndash; applied research, namely, work undertaken for the advancement of
 scientific knowledge with a specific practical application in view, or
 
-- experimental development, namely, work undertaken for the purpose of
+- &ndash; experimental development, namely, work undertaken for the purpose of
 achieving technological advancement for the purpose of creating new, or
 improving existing, materials, devices, products or processes, including
 incremental improvements thereto,
 and, in applying this definition in respect of a taxpayer, includes
 
-- work undertaken by or on behalf of the taxpayer with respect to
+- &ndash; work undertaken by or on behalf of the taxpayer with respect to
 engineering, design, operations research, mathematical analysis,
 computer programming, data collection, testing or psychological
 research, where the work is commensurate with the needs, and directly in
@@ -96,13 +96,13 @@ undertaken in Canada by or on behalf of the taxpayer,
 
 but does not include work with respect to
 
-- market research or sales promotion
-- quality control or routine testing of materials, devices, products or processes
--  research in the social sciences or the humanities
-- prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas
-- the commercial production of a new or improved material, device or product or the commercial use of a new or improved process
-- style changes, or
-- routine data collection.
+- &ndash; market research or sales promotion
+- &ndash; quality control or routine testing of materials, devices, products or processes
+- &ndash;  research in the social sciences or the humanities
+- &ndash; prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas
+- &ndash; the commercial production of a new or improved material, device or product or the commercial use of a new or improved process
+- &ndash; style changes, or
+- &ndash; routine data collection.
 
 
 
@@ -287,11 +287,11 @@ The following two-step methodology can be used to determine if and to what exte
 
 1. Determine if there is SR&ED.
 
-  - In this step, the details of the work are examined to the point where the five questions can be answered.
+  - &ndash; In this step, the details of the work are examined to the point where the five questions can be answered.
 
 1. Determine the extent of eligible work.
 
-  - In this step, the details of the work are examined to determine what work is SR&ED.
+  - &ndash; In this step, the details of the work are examined to determine what work is SR&ED.
 
 
 
@@ -875,15 +875,15 @@ broad to apply to an industrial context as well.
 
 In SR&ED, it is expected that a planned approach is formulated; that is:
 
-- formulating one or
+- &ndash; formulating one or
     more [hypotheses](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hypthss)
     designed to reduce or eliminate the
     [uncertainties](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty);
-- planning and executing the testing of the hypotheses
+- &ndash; planning and executing the testing of the hypotheses
     by [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
     or [analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nlyss);
     and
-- developing logical conclusions based on the results or findings of
+- &ndash; developing logical conclusions based on the results or findings of
     the
     [experiment](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xprmnt)
     or
@@ -1181,7 +1181,7 @@ states:
 
 *and, in applying this definition in respect of a taxpayer, includes
 
-- work undertaken by or [on behalf
+- &ndash; work undertaken by or [on behalf
 of](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#nbhlf)
 the taxpayer with respect to
 [engineering](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ngnrng),
@@ -1208,36 +1208,36 @@ the taxpayer,
 
 but does not include work with respect to
 
-- [market
+- &ndash; [market
 research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#mrkt)
 or [sales
 promotion](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#sls),
 
--  [quality
+- &ndash;  [quality
 control](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#qcntrl)
 or [routine
 testing](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tstng)
 of materials, devices, products or processes,
 
-- research in the [social
+- &ndash; research in the [social
 sciences](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#sclsc)
 or the
 [humanities](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#hmnts),
 
--  [prospecting, exploring or drilling for, or producing, minerals,
+- &ndash;  [prospecting, exploring or drilling for, or producing, minerals,
 petroleum or natural
 gas](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prspct),
 
--  the [commercial
+- &ndash;  the [commercial
 production](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmprd)
 of a new or improved material, device or product or the commercial use
 of a new or improved process,
 
--  [style
+- &ndash;  [style
 changes](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#stylc),
 or
 
--  [routine data
+- &ndash;  [routine data
 collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn).*
 
 The following sections provide additional details on how to determine
@@ -1272,7 +1272,7 @@ it falls within the meaning of SR&ED.
 work](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprtwrk)
 must be the following:
 
-- It must be [commensurate with the
+- &ndash; It must be [commensurate with the
     needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt)
     of the [basic
     research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
@@ -1290,7 +1290,7 @@ must be the following:
     development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) work
     undertaken in Canada.
 
-- It must be [directly in
+- &ndash; It must be [directly in
     support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt)
     of the [basic
     research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#bscrsrch),
@@ -1303,15 +1303,15 @@ must be the following:
     research, or experimental development work undertaken in Canada.
 
 It must be with respect to one of the eight categories of work following:
-    - [engineering](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ngnrng)
-    - [design](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dsgn)
-    - [operations research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prtns)
-    - [mathematical analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#mthmtcl)
-    - [computer programming](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmptr)
-    - [data collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn)
-    - [testing](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tstng)
+    - &ndash; [engineering](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ngnrng)
+    - &ndash; [design](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dsgn)
+    - &ndash; [operations research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#prtns)
+    - &ndash; [mathematical analysis](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#mthmtcl)
+    - &ndash; [computer programming](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmptr)
+    - &ndash; [data collection](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dtcllctn)
+    - &ndash; [testing](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#tstng)
         or
-    - [psychological research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#psycrsrch).
+    - &ndash; [psychological research](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#psycrsrch).
 
 
 
@@ -1438,14 +1438,14 @@ of [SR&ED](https://www.canada.ca/en/revenue-agency/services/scientific-research
 in subsection 248(1) of the Act. An SR&ED project is defined as a
 project comprising a set of interrelated activities that:
 
-- collectively are necessary in attempting to achieve the
+- &ndash; collectively are necessary in attempting to achieve the
     specific [scientific or technological
     advancement](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#dvncmnt)
     defined for the project by overcoming [scientific or technological
     uncertainty](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#ncrtnty);
     and
 
-- are pursued through a [systematic investigation or
+- &ndash; are pursued through a [systematic investigation or
     search](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#systmnv)
     in a field
     of [science](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#scn)
@@ -1616,11 +1616,11 @@ in a shop floor environment is generally not carried out in isolation.
 Rather, it is performed with other non-SR&ED work. For example, SR&ED
 can be carried out:
 
-- at the same location where other work is being performed
+- &ndash; at the same location where other work is being performed
 
-- by staff performing their regular duties; or
+- &ndash; by staff performing their regular duties; or
 
-- while building or operating commercial equipment or facilities.
+- &ndash; while building or operating commercial equipment or facilities.
 
 Shop floor SR&ED usually occurs when SR&ED is carried out in conjunction
 or simultaneously with excluded commercial work. Paragraph (i) of the
