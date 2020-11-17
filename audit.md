@@ -219,7 +219,7 @@ although these are cost related issues
 are sometimes challenged by the RTA.
 
 {: .box-warning}
-**Warning:*- &ndash; Have documentation ready to counteract any such challenges.
+**Warning:** Have documentation ready to counteract any such challenges.
 
 
 SR&ED Support Activities
@@ -355,5 +355,5 @@ New product development, by itself, is always eligible. Wrong.
 1. Not if achievable entirely through standard practice. Engineering, design and programming constitute SR&ED.
 1. Not unless they support eligible experimental development. Projects qualify if they’re time-consuming, costly, complex, or difficult.
 1. These things are irrelevant unless all three eligibility criteria are met. Uncertainties related to budget, scheduling, marketing, and the like, matter.
-1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind- &ndash; &mdash; always demonstrates a technological advancement.
+1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind\t- &ndash; &mdash; always demonstrates a technological advancement.
 1. Because these are not necessarily the outcome of experimental development.

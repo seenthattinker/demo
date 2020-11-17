@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About SR&ED
-subtitle: A high level overview
+subtitle: How we SR&ED
 ---
 
 
