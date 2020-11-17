@@ -1262,7 +1262,6 @@ it falls within the meaning of SR&ED.
 [Support
 work](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprtwrk)
 must be the following:
-
 - &ndash; It must be [commensurate with the
     needs](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#cmmnsrt)
     of the [basic
@@ -1280,7 +1279,6 @@ must be the following:
     or [experimental
     development](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#xpdvlpmnt) work
     undertaken in Canada.
-
 - &ndash; It must be [directly in
     support](https://www.canada.ca/en/revenue-agency/services/scientific-research-experimental-development-tax-incentive-program/glossary.html#spprt)
     of the [basic
@@ -1608,9 +1606,7 @@ Rather, it is performed with other non-SR&ED work. For example, SR&ED
 can be carried out:
 
 - &ndash; at the same location where other work is being performed
-
 - &ndash; by staff performing their regular duties; or
-
 - &ndash; while building or operating commercial equipment or facilities.
 
 Shop floor SR&ED usually occurs when SR&ED is carried out in conjunction
