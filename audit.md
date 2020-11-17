@@ -90,7 +90,7 @@ Assume that the auditor will be chairing the meeting.
 Let them set the agenda,
 but you can let them know you have a presentation and tour planned.
 The auditor will very likely have an educational presentation regarding the SR&ED program.
-He or she may go into *Teaching Mode* about R&D.
+He or she may go into *Teaching Mode- &ndash; about R&D.
 This is part of their job.
 
 Have a brief presentation about your company ready to go.
@@ -219,7 +219,7 @@ although these are cost related issues
 are sometimes challenged by the RTA.
 
 {: .box-warning}
-**Warning:** Have documentation ready to counteract any such challenges.
+**Warning:*- &ndash; Have documentation ready to counteract any such challenges.
 
 
 SR&ED Support Activities
@@ -247,14 +247,14 @@ development work undertaken in Canada.
 
 
 It must be with respect to one of the eight categories of work listed below:
-* engineering;
-* design;
-* operations research;
-* mathematical analysis;
-* computer programming;
-* data collection;
-* testing; or
-* psychological research.
+- &ndash; engineering;
+- &ndash; design;
+- &ndash; operations research;
+- &ndash; mathematical analysis;
+- &ndash; computer programming;
+- &ndash; data collection;
+- &ndash; testing; or
+- &ndash; psychological research.
 
 
 
@@ -266,11 +266,11 @@ The definition is broad-ranging,
 and it can apply to many different types of businesses,
 but the law specifically excludes certain activities from SR&ED tax incentives.
 Among the activities that don’t qualify are:
-* market research you do before you start your project
-* promotions
-* social science research projects
-* humanities research projects
-* and style changes.
+- &ndash; market research you do before you start your project
+- &ndash; promotions
+- &ndash; social science research projects
+- &ndash; humanities research projects
+- &ndash; and style changes.
 
 You also may not count routine tasks such as testing,
 quality control,
@@ -305,28 +305,28 @@ Routing Software Development
 
 Things at the technological Level:
 
-* throughput
-* speed
-* response time
-* technological risks & constraints
-* limited bandwidth
-* limited computing power
-* repeatability
-* reliability
-* bug fixes
-* coding
-* and engineering are actually support activities.
+- &ndash; throughput
+- &ndash; speed
+- &ndash; response time
+- &ndash; technological risks & constraints
+- &ndash; limited bandwidth
+- &ndash; limited computing power
+- &ndash; repeatability
+- &ndash; reliability
+- &ndash; bug fixes
+- &ndash; coding
+- &ndash; and engineering are actually support activities.
 
 Things at the functional Level:
 
-* what the code does
-* Programmatic risk
-* business risk
-* marketing risk
-* too costly
-* too complicated
-* not enough time
-* advancement in functionality feature extensions.
+- &ndash; what the code does
+- &ndash; Programmatic risk
+- &ndash; business risk
+- &ndash; marketing risk
+- &ndash; too costly
+- &ndash; too complicated
+- &ndash; not enough time
+- &ndash; advancement in functionality feature extensions.
 
 The earliest possible moment when the uncertainty was recognized
 &mdash;
@@ -355,5 +355,5 @@ New product development, by itself, is always eligible. Wrong.
 1. Not if achievable entirely through standard practice. Engineering, design and programming constitute SR&ED.
 1. Not unless they support eligible experimental development. Projects qualify if they’re time-consuming, costly, complex, or difficult.
 1. These things are irrelevant unless all three eligibility criteria are met. Uncertainties related to budget, scheduling, marketing, and the like, matter.
-1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind* &mdash; always demonstrates a technological advancement.
+1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind- &ndash; &mdash; always demonstrates a technological advancement.
 1. Because these are not necessarily the outcome of experimental development.
