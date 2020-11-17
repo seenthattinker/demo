@@ -248,14 +248,14 @@ development work undertaken in Canada.
 
 
 It must be with respect to one of the eight categories of work listed below:
-  - engineering;
-  - design;
-  - operations research;
-  - mathematical analysis;
-  - computer programming;
-  - data collection;
-  - testing; or
-  - psychological research.
+* engineering;
+* design;
+* operations research;
+* mathematical analysis;
+* computer programming;
+* data collection;
+* testing; or
+* psychological research.
 
 
 
@@ -267,11 +267,11 @@ The definition is broad-ranging,
 and it can apply to many different types of businesses,
 but the law specifically excludes certain activities from SR&ED tax incentives.
 Among the activities that don’t qualify are:
-  - market research you do before you start your project
-  - promotions
-  - social science research projects
-  - humanities research projects
-  - and style changes.
+* market research you do before you start your project
+* promotions
+* social science research projects
+* humanities research projects
+* and style changes.
 
 You also may not count routine tasks such as testing,
 quality control,
@@ -305,27 +305,27 @@ Routing Software Development
 
 
 Things at the technological Level:
-  - throughput
-  - speed
-  - response time
-  - technological risks & constraints
-  - limited bandwidth
-  - limited computing power
-  - repeatability
-  - reliability
-  - bug fixes
-  - coding
-  - and engineering are actually support activities.
+* throughput
+* speed
+* response time
+* technological risks & constraints
+* limited bandwidth
+* limited computing power
+* repeatability
+* reliability
+* bug fixes
+* coding
+* and engineering are actually support activities.
 
 Things at the functional Level:
-  - what the code does
-  - Programmatic risk
-  - business risk
-  - marketing risk
-  - too costly
-  - too complicated
-  - not enough time
-  - advancement in functionality feature extensions.
+* what the code does
+* Programmatic risk
+* business risk
+* marketing risk
+* too costly
+* too complicated
+* not enough time
+* advancement in functionality feature extensions.
 
 The earliest possible moment when the uncertainty was recognized
 &mdash;
