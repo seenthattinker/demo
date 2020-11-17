@@ -247,14 +247,14 @@ development work undertaken in Canada.
 
 
 It must be with respect to one of the eight categories of work listed below:
-- &ndash; engineering;
-- &ndash; design;
-- &ndash; operations research;
-- &ndash; mathematical analysis;
-- &ndash; computer programming;
-- &ndash; data collection;
-- &ndash; testing; or
-- &ndash; psychological research.
+  - &ndash; engineering
+  - &ndash; design
+  - &ndash; operations research
+  - &ndash; mathematical analysis
+  - &ndash; computer programming
+  - &ndash; data collection
+  - &ndash; testing
+  - &ndash; psychological research.
 
 
 
@@ -266,11 +266,11 @@ The definition is broad-ranging,
 and it can apply to many different types of businesses,
 but the law specifically excludes certain activities from SR&ED tax incentives.
 Among the activities that don’t qualify are:
-- &ndash; market research you do before you start your project
-- &ndash; promotions
-- &ndash; social science research projects
-- &ndash; humanities research projects
-- &ndash; and style changes.
+  - &ndash; market research you do before you start your project
+  - &ndash; promotions
+  - &ndash; social science research projects
+  - &ndash; humanities research projects
+  - &ndash; and style changes.
 
 You also may not count routine tasks such as testing,
 quality control,
@@ -354,5 +354,5 @@ New product development, by itself, is always eligible. Wrong.
 1. Not if achievable entirely through standard practice. Engineering, design and programming constitute SR&ED.
 1. Not unless they support eligible experimental development. Projects qualify if they’re time-consuming, costly, complex, or difficult.
 1. These things are irrelevant unless all three eligibility criteria are met. Uncertainties related to budget, scheduling, marketing, and the like, matter.
-1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind\t- &ndash; &mdash; always demonstrates a technological advancement.
+1. Not unless they lead to at least one technological uncertainty, novelty, innovation or uniqueness &mdash; *first of its kind &mdash; always demonstrates a technological advancement.
 1. Because these are not necessarily the outcome of experimental development.
