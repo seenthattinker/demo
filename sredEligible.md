@@ -1,8 +1,7 @@
 ---
 layout: page
 title: eligible
-nav_order: 2
-description: "Information on SR&ED Audits."
+subtitle: What you need to know about SR&ED audits
 ---
 
 
