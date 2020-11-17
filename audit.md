@@ -304,17 +304,17 @@ Routing Software Development
 
 
 Things at the technological level:
-- &ndash; throughput
-- &ndash; speed
-- &ndash; response time
-- &ndash; technological risks & constraints
-- &ndash; limited bandwidth
-- &ndash; limited computing power
-- &ndash; repeatability
-- &ndash; reliability
-- &ndash; bug fixes
-- &ndash; coding
-- &ndash; and engineering are actually support activities.
+  - &ndash; throughput
+  - &ndash; speed
+  - &ndash; response time
+  - &ndash; technological risks & constraints
+  - &ndash; limited bandwidth
+  - &ndash; limited computing power
+  - &ndash; repeatability
+  - &ndash; reliability
+  - &ndash; bug fixes
+  - &ndash; coding
+  - &ndash; and engineering are actually support activities.
 
 Things at the functional Level:
 
