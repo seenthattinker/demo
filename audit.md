@@ -4,7 +4,7 @@ title: Audit
 subtitle: What to expect in an audit
 ---
 
-![logo](/assets/img/conceptinero.jpg width=200pt)
+![logo](/assets/img/conceptinero.jpg =200px)
 
 
 SR&ED Technical Audit Pointers
