@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default 
 title: glossary
 description: The Terms You Need to Know
 ---
