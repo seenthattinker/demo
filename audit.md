@@ -219,7 +219,8 @@ although these are cost related issues
 &mdash;
 are sometimes challenged by the RTA.
 
-{: .box-warning}**Warning:** Have documentation ready to counteract any such challenges.
+{: .box-warning}
+**Warning:** Have documentation ready to counteract any such challenges.
 
 
 SR&ED Support Activities
