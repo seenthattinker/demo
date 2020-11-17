@@ -262,7 +262,7 @@ specifically to perform the related basic research, applied research, or experim
 development work undertaken in Canada.
 
 
-It must be with respect to one of the eight categories of work listed below
+It must be with respect to one of the eight categories of work listed below:
 
 - engineering;
 - design;
