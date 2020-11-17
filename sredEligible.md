@@ -1,7 +1,7 @@
 ---
 layout: page
 title: eligible
-subtitle: What you need to know about SR&ED audits
+subtitle: Are you eligible for SR&ED credits
 ---
 
 
@@ -95,7 +95,7 @@ but does not include work with respect to
 - prospecting, exploring or drilling for, or producing, minerals, petroleum or natural gas
 - the commercial production of a new or improved material, device or product or the commercial use of a new or improved process
 - style changes, or
--  routine data collection.
+- routine data collection.
 
 
 
