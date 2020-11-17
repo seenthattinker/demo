@@ -43,7 +43,7 @@ Applied research is work undertaken for the [advancement of scientific knowledg
 with a specific practical application in view.
 
 
-![Analysis](/assets/img/analysis.svg))
+
 
 
 B
