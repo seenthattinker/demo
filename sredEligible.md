@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: eligible
 subtitle: Are you eligible for SR&ED credits
 ---
