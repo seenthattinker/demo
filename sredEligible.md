@@ -4,6 +4,40 @@ title: eligible
 subtitle: Are you eligible for SR&ED credits
 ---
 
+- [Eligibility of Work for SR&ED Investment Tax Credits Policy](#eligibility-of-work-for-sr-ed-investment-tax-credits-policy)
+  * [What is SR&ED?](#what-is-sr-ed-)
+    + [In our words](#in-our-words)
+    + [In their words](#in-their-words)
+    + [How SR&ED is carried out](#how-sr-ed-is-carried-out)
+    + [Why SR&ED is carried out](#why-sr-ed-is-carried-out)
+  * [Work types](#work-types)
+    + [Basic research](#basic-research)
+    + [Applied research](#applied-research)
+    + [Experimental development](#experimental-development)
+  * [Methodology to determine if work meets the definition of SR&ED](#methodology-to-determine-if-work-meets-the-definition-of-sr-ed)
+    + [Determine if there is SR&ED](#determine-if-there-is-sr-ed)
+    + [Was there a scientific or a technological uncertainty?](#was-there-a-scientific-or-a-technological-uncertainty-)
+    + [Example 1: Technological uncertainty](#example-1--technological-uncertainty)
+    + [Example 2: Technical problem versus technological uncertainty](#example-2--technical-problem-versus-technological-uncertainty)
+    + [Example 3: Cost targets leading to technological uncertainty](#example-3--cost-targets-leading-to-technological-uncertainty)
+    + [Example 4: Development based on existing scientific or technological knowledge](#example-4--development-based-on-existing-scientific-or-technological-knowledge)
+    + [Did the effort involve formulating hypotheses specifically aimed at reducing or eliminating that uncertainty?](#did-the-effort-involve-formulating-hypotheses-specifically-aimed-at-reducing-or-eliminating-that-uncertainty-)
+    + [Was the overall approach adopted consistent with a systematic investigation or search, including formulating and testing the hypotheses by means of experiment or analysis?](#was-the-overall-approach-adopted-consistent-with-a-systematic-investigation-or-search--including-formulating-and-testing-the-hypotheses-by-means-of-experiment-or-analysis-)
+    + [Was the overall approach undertaken for the purpose of achieving a scientific or a technological advancement?](#was-the-overall-approach-undertaken-for-the-purpose-of-achieving-a-scientific-or-a-technological-advancement-)
+    + [Example 5: Creating new materials, devices, products or processes without technological advancement](#example-5--creating-new-materials--devices--products-or-processes-without-technological-advancement)
+    + [Was a record of the hypotheses tested and the results kept as the work progressed?](#was-a-record-of-the-hypotheses-tested-and-the-results-kept-as-the-work-progressed-)
+    + [Step 2: Determine the extent of eligible work](#step-2--determine-the-extent-of-eligible-work)
+    + [Support work](#support-work)
+    + [Example 6: Commensurate with the needs and directly in support](#example-6--commensurate-with-the-needs-and-directly-in-support)
+    + [Excluded work](#excluded-work)
+  * [SR&ED project](#sr-ed-project)
+    + [Characteristics of an SR&ED project](#characteristics-of-an-sr-ed-project)
+    + [Company project versus SR&ED project](#company-project-versus-sr-ed-project)
+    + [Duration of an SR&ED project](#duration-of-an-sr-ed-project)
+  * [SR&ED in a production or manufacturing environment](#sr-ed-in-a-production-or-manufacturing-environment)
+
+
+
 
 Eligibility of Work for SR&ED Investment Tax Credits Policy
 ===========================================================
